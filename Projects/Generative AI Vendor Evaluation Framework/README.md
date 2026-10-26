@@ -1,10 +1,12 @@
 # Generative AI Vendor Evaluation Framework
 
+Project Type: Graduate coursework
+
 ## Overview
 
-This project develops and applies a structured evaluation framework for assessing generative AI platforms prior to organizational adoption.
+For this project, I compared ChatGPT, Claude, and Microsoft Copilot to evaluate their suitability for a hypothetical ninth-grade classroom learning program focused on APA citations.
 
-Using a standardized methodology, ChatGPT, Claude, and Microsoft Copilot were evaluated across governance, risk, operational, and educational criteria to determine suitability for deployment in an academic environment.
+The goal was to look beyond which platform produced the best answers and consider the practical, ethical, and operational factors that would matter when introducing AI into an educational environment.
 
 ## Problem Statement
 
@@ -22,61 +24,83 @@ Key considerations include:
   
 This project creates and applies a formal evaluation framework to support AI procurement and deployment decisions.
 
-## Evaluation Framework
+## Evaluation Approach
 
-The framework evaluates AI platforms across ten categories:
+I used a 10-criterion scoring rubric covering three areas:
 
-### Pedagogical Relevance & Performance
+#### Educational Performance
 
-- Pedagogical Alignment & Usefulness
-- Accuracy & Content Quality
-- Ease of Use & User Experience
+Pedagogical usefulness
 
-### Ethical & Responsible AI
+Accuracy and content quality
 
-- Bias Mitigation & Fairness
-- Privacy & Data Security
-- Transparency & Explainability
-- Accessibility
+Ease of use
 
-### Practical & Operational Considerations
+#### Responsible AI
 
-- Cost & Value (ROI)
-- Integration & Scalability
-- Vendor Support & Updates
+Bias and fairness
 
-## Methodology
+Privacy and data security
 
-A common set of prompts and evaluation criteria were applied across multiple generative AI platforms to assess:
+Transparency and explainability
 
-- Platform reliability
-- Governance readiness
-- Risk management capabilities
-- Privacy controls
-- Responsible AI practices
-- Operational feasibility
+Accessibility
 
-Results were scored using a repeatable rubric designed to support evidence-based AI procurement decisions.
+#### Operational Considerations
 
-## Key Findings
+Cost and potential value
 
-- ChatGPT achieved the highest overall score in this evaluation.
-- Microsoft Copilot demonstrated strong privacy, integration, and scalability capabilities.
-- Claude demonstrated strengths in bias awareness but significant limitations within the evaluated deployment scenario.
-- All platforms required additional due diligence before implementation.
+Integration and scalability
 
-## Skills Demonstrated
+Vendor support
 
-- AI Governance
-- Responsible AI
-- Vendor Due Diligence
-- AI Risk Assessment
-- Privacy Analysis
-- Fairness Assessment
-- Technology Evaluation
-- Governance Framework Development
-- Procurement Support
-- Stakeholder Decision Support
+I tested the platforms using prompts related to lesson planning, APA citation accuracy, accessibility, and classroom implementation. I also reviewed vendor information and documented the reasoning behind each score.
+
+### Key Findings
+
+<p><strong>ChatGPT — 25/30</strong></p>
+<img src="https://progress-bar.xyz/25/?scale=30&width=400&color=4682AA" alt="ChatGPT: 25 out of 30" />
+
+<p><strong>Microsoft Copilot — 21/30</strong></p>
+<img src="https://progress-bar.xyz/21/?scale=30&width=400&color=4682AA" alt="Microsoft Copilot: 21 out of 30" />
+
+<p><strong>Claude — 10/30</strong></p>
+
+ChatGPT performed best overall for the scenario evaluated, particularly in lesson planning and accessibility.
+
+Microsoft Copilot offered advantages in integration and data privacy considerations, although its estimated implementation costs were higher.
+
+Claude demonstrated an awareness of bias-related concerns but presented limitations for the intended student-facing use case.
+
+These findings reflect the specific products, versions, and use case evaluated at the time of the assignment.
+
+### Limitations
+
+This was an academic evaluation, not a formal procurement or security assessment.
+
+Some findings relied on AI-generated responses and publicly available vendor information. A real implementation would require additional verification of contractual terms, privacy protections, accessibility, costs, and technical requirements.
+
+### What I Learned
+
+This project reinforced the importance of evaluating AI tools in the context of their intended use. A platform that performs well in one area may still introduce privacy, accessibility, or implementation challenges.
+
+It also highlighted why organizations need to verify vendor claims rather than relying solely on the information AI systems provide about themselves.
+
+### Skills Applied
+
+Comparative technology evaluation
+
+Risk identification
+
+Responsible AI considerations
+
+Privacy and accessibility review
+
+Evaluation rubric application
+
+Documentation and analysis
+
+
 
 ## Deliverables
 
