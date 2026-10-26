@@ -46,7 +46,7 @@ Analysis of privacy, governance, operational risk, and workforce implications as
 
 Evaluation of an AI-enabled advising program with emphasis on governance, privacy, oversight, and implementation considerations.
 
-➡️ [View Project](./Projects/AI%20Supported%20Postsecondary%20Advising%20Program%20Evaluation)
+➡️ [View Project](./Projects/AI-Supported%20Postsecondary%20Advising%20Program%20Evaluation)
 
 ## Areas of Interest
 
