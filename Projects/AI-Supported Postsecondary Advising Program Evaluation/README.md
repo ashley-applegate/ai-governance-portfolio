@@ -1,4 +1,4 @@
-# AI-Supported Postsecondary Advising Program Evaluation
+# AI-Supported Postsecondary Advising - Program Evaluation Proposal
 Program Evaluation Proposal
 
 ## Overview
