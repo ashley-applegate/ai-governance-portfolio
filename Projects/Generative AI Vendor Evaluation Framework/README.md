@@ -58,14 +58,18 @@ I tested the platforms using prompts related to lesson planning, APA citation ac
 
 ### Key Findings
 
-<p><strong>ChatGPT — 25/30 (83.3%)</strong></p>
-<img src="https://progress-bar.xyz/83/?width=400&color=4682AA" alt="ChatGPT: 83.3%" />
 
-<p><strong>Microsoft Copilot — 21/30 (70%)</strong></p>
-<img src="https://progress-bar.xyz/70/?width=400&color=4682AA" alt="Microsoft Copilot: 70%" />
+**ChatGPT — 25/30 (83.3%)**
 
-<p><strong>Claude — 10/30 (33.3%)</strong></p>
-<img src="https://progress-bar.xyz/33/?width=400&color=4682AA" alt="Claude: 33.3%" />
+![ChatGPT: 83%](https://progress-bar.xyz/83/?width=400&color=4682AA)
+
+**Microsoft Copilot — 21/30 (70%)**
+
+![Microsoft Copilot: 70%](https://progress-bar.xyz/70/?width=400&color=4682AA)
+
+**Claude — 10/30 (33.3%)**
+
+![Claude: 33%](https://progress-bar.xyz/33/?width=400&color=4682AA)
 
 ChatGPT performed best overall for the scenario evaluated, particularly in lesson planning and accessibility.
 
