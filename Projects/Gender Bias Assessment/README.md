@@ -48,4 +48,4 @@ The project was developed as a policy brief for educational policymakers and inc
 - Policy Brief
 - Risk Assessment
 - Governance Recommendations
-  [View Policy Brief](./Breaking-Bias.-Building-Futures..pdf)
+  [View Policy Brief](./Gender-Bias-Policy-Brief.pdf)
