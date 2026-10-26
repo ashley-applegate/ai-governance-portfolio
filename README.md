@@ -4,9 +4,11 @@ Ashley Applegate, PMP
 
 MS in AI Policy & Management | Purdue University
 
-I am a governance, privacy, risk, and program management leader with experience supporting Meta, Amazon Project Kuiper, and Uber. Throughout my career, I have built and scaled governance programs, designed operational controls, managed regulatory and compliance requirements, and led cross-functional initiatives in complex environments.
+This portfolio brings together projects completed as part of my graduate studies in Artificial Intelligence Policy and Management at Purdue University.
 
-As artificial intelligence becomes increasingly embedded in products, operations, and decision-making systems, I am focused on applying governance, risk, and oversight principles to ensure AI systems are deployed responsibly.
+My professional background is in program management, privacy, risk, and corporate security, with experience at Meta, Amazon, and Uber. Through my graduate coursework, I'm building on that experience by exploring how organizations can evaluate AI-related risks, establish appropriate oversight, and make responsible decisions about emerging technologies.
+
+The projects below cover topics including AI vendor evaluation, bias and fairness, human oversight, privacy, and the practical challenges of using AI in different environments.
 
 ## Portfolio Projects
 
