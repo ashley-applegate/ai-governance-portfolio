@@ -80,7 +80,7 @@ Results were scored using a repeatable rubric designed to support evidence-based
 
 ## Deliverables
 
-- ./Generative-AI-Vendor-Evaluation-Framework.pdf
+- [View Generative AI Vendor Evaluation Framework](./Generative-AI-Vendor-Evaluation-Framework.pdf)
 
 ## Portfolio Relevance
 
