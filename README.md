@@ -14,7 +14,7 @@ As artificial intelligence becomes increasingly embedded in products, operations
 
 Developed and applied a structured AI vendor assessment framework evaluating privacy, fairness, transparency, accessibility, scalability, and operational risk.
 
-➡️ [View Project](./Projects/Generative-AI-Vendor-Evaluation-Framework)
+➡️ [View Project](./Projects/Generative%20AI%20Vendor%20Evaluation%20Framework)
 
 ---
 
@@ -22,7 +22,7 @@ Developed and applied a structured AI vendor assessment framework evaluating pri
 
 Evaluation of gender bias risks in educational AI systems, including governance recommendations and oversight mechanisms.
 
-➡️ [View Project](./Projects/Gender-Bias-Assessment)
+➡️ [View Project](./Projects/Gender%20Bias%20Assessment)
 
 ---
 
@@ -30,7 +30,7 @@ Evaluation of gender bias risks in educational AI systems, including governance 
 
 Analysis of AI reliability, source verification, human oversight, and accountability in estate administration.
 
-➡️ [View Project](./Projects/Trust-and-Verification-in-Estate-Administration)
+➡️ [View Project](./Projects/Trust%20and%20Verification%20in%20Estate%20Administration)
 
 ---
 
@@ -38,7 +38,7 @@ Analysis of AI reliability, source verification, human oversight, and accountabi
 
 Analysis of privacy, governance, operational risk, and workforce implications associated with enterprise AI deployment.
 
-➡️ [View Project](./Projects/Corporate-Physical-Security-AI-Report)
+➡️ [View Project](./Projects/Corporate%20Physical%20Security%20AI%20Report)
 
 ---
 
@@ -46,7 +46,7 @@ Analysis of privacy, governance, operational risk, and workforce implications as
 
 Evaluation of an AI-enabled advising program with emphasis on governance, privacy, oversight, and implementation considerations.
 
-➡️ [View Project](./Projects/AI-Supported-Postsecondary-Advising-Program-Evaluation)
+➡️ [View Project](./Projects/AI%20Supported%20Postsecondary%20Advising%20Program%20Evaluation)
 
 ## Areas of Interest
 
