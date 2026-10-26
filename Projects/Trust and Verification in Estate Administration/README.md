@@ -20,7 +20,7 @@ This project explores the benefits and limitations of using generative AI to sup
 - Identify risks associated with AI-assisted decision making.
 - Determine where human oversight remains essential.
 
-##Evaluation Approach
+## Evaluation Approach
 
 I examined Copilot's responses across three areas:
 
