@@ -22,7 +22,7 @@ Key considerations include:
 - Cost and return on investment
 - Vendor support and governance maturity
   
-This project creates and applies a formal evaluation framework to support AI procurement and deployment decisions.
+For this project, I developed and applied a structured scoring rubric to compare three generative AI platforms for a hypothetical educational use case. The evaluation considers factors that organizations would need to assess before adopting AI tools.
 
 ## Evaluation Approach
 
