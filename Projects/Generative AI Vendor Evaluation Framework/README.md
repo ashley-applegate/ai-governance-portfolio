@@ -65,6 +65,7 @@ I tested the platforms using prompts related to lesson planning, APA citation ac
 <img src="https://progress-bar.xyz/21/?scale=30&width=400&color=4682AA" alt="Microsoft Copilot: 21 out of 30" />
 
 <p><strong>Claude — 10/30</strong></p>
+<img src="https://progress-bar.xyz/10/?scale=30&width=400&color=4682AA" alt="Claude: 10 out of 30" />
 
 ChatGPT performed best overall for the scenario evaluated, particularly in lesson planning and accessibility.
 
