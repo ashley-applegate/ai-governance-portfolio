@@ -36,22 +36,23 @@ I used a 10-criterion scoring rubric covering three areas:
 
 #### Educational Performance
 
--Pedagogical usefulness
--Accuracy and content quality
--Ease of use
+- Pedagogical usefulness
+- Accuracy and content quality
+- Ease of use
+
 
 #### Responsible AI
 
--Bias and fairness
--Privacy and data security
--Transparency and explainability
--Accessibility
+- Bias and fairness
+- Privacy and data security
+- Transparency and explainability
+- Accessibility
 
 #### Operational Considerations
 
--Cost and potential value
--Integration and scalability
--Vendor support
+- Cost and potential value
+- Integration and scalability
+- Vendor support
 
 I tested the platforms using prompts related to lesson planning, APA citation accuracy, accessibility, and classroom implementation. I also reviewed vendor information and documented the reasoning behind each score.
 
@@ -92,12 +93,12 @@ It also highlighted why organizations need to verify vendor claims rather than r
 
 ### Skills Applied
 
--Comparative technology evaluation
--Risk identification
--Responsible AI considerations
--Privacy and accessibility review
--Evaluation rubric application
--Documentation and analysis
+- Comparative technology evaluation
+- Risk identification
+- Responsible AI considerations
+- Privacy and accessibility review
+- Evaluation rubric application
+- Documentation and analysis
 
 
 
