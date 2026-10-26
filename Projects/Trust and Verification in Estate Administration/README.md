@@ -12,21 +12,13 @@ AI can make complex administrative work easier, but inaccurate or incomplete inf
 
 This project explores the benefits and limitations of using generative AI to support estate administration, particularly when individuals may not have prior experience navigating probate requirements.
 
-## Objectives
-
-- Evaluate AI-generated responses in a real-world use case.
-- Compare AI outputs against source materials.
-- Assess the reliability of AI-generated recommendations.
-- Identify risks associated with AI-assisted decision making.
-- Determine where human oversight remains essential.
-
 ## Evaluation Approach
 
 I examined Copilot's responses across three areas:
 
-- Administrative support: Organizing travel, mileage, and work records into a structured accounting table.
-- Legal information accuracy: Summarizing administrator responsibilities using a Vermont probate guidance booklet.
-- Source verification: Tracing an AI-generated prediction about efficiency improvements back to its cited source.
+- **Administrative support:** Organizing travel, mileage, and work records into a structured accounting table.
+- **Legal information accuracy:** Summarizing administrator responsibilities using a Vermont probate guidance booklet.
+- **Source verification:** Tracing an AI-generated prediction about efficiency improvements back to its cited source.
 
 I compared the outputs with the information provided, identified discrepancies, and considered where human review was necessary.
 
