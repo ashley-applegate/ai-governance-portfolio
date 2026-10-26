@@ -1,9 +1,26 @@
-# ai-governance-portfolio
-Practical AI governance work samples including bias assessments, risk analyses, governance frameworks, and responsible AI policy development.
+# AI Governance Portfolio
 
-### Projects
+Ashley Applegate
+MS in AI Policy & Management | Purdue University
 
-1. Gender Bias Risk Assessment for AI in Early Education
-2. AI Governance in Corporate Physical Security
-3. Trust and Verification in Estate Administration
-4. AI-Supported Postsecondary Advising Program Evaluation
+## Portfolio Projects
+
+### Generative AI Vendor Evaluation Framework
+
+Vendor due diligence and governance assessment framework for evaluating generative AI systems.
+
+### Gender Bias Risk Assessment for AI in Early Education
+
+Assessment of fairness, stakeholder impacts, and governance controls.
+
+### Trust and Verification in Estate Administration
+
+Evaluation of AI reliability, source validation, and human oversight requirements.
+
+### AI Governance in Corporate Physical Security
+
+Analysis of governance, privacy, and operational considerations in enterprise AI deployment.
+
+### AI-Supported Postsecondary Advising Program Evaluation
+
+Evaluation of AI-enabled advising systems with emphasis on governance, privacy, and program oversight.
