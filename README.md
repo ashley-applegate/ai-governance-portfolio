@@ -3,29 +3,49 @@
 Ashley Applegate
 MS in AI Policy & Management | Purdue University
 
-This portfolio showcases work related to AI governance, responsible AI, AI risk management, vendor evaluation, policy analysis, bias assessment, and human oversight of AI systems.
+I am a governance, privacy, risk, and program management leader with experience supporting Meta, Amazon Project Kuiper, and Uber. Throughout my career, I have built and scaled governance programs, designed operational controls, managed regulatory and compliance requirements, and led cross-functional initiatives in complex environments.
+
+As artificial intelligence becomes increasingly embedded in products, operations, and decision-making systems, I am focused on applying governance, risk, and oversight principles to ensure AI systems are deployed responsibly.
 
 ## Portfolio Projects
 
 ### Generative AI Vendor Evaluation Framework
 
-A structured AI vendor due-diligence framework used to assess generative AI systems across privacy, fairness, transparency, accessibility, scalability, and operational risk considerations.
+Developed and applied a structured AI vendor assessment framework evaluating privacy, fairness, transparency, accessibility, scalability, and operational risk.
+
+➡️ [View Project](./Projects/Generative-AI-Vendor-Evaluation-Framework)
+
+---
 
 ### Gender Bias Risk Assessment and Governance Framework for AI in Early Education
 
-Evaluation of gender bias risks in educational AI systems, including governance recommendations, oversight mechanisms, and policy considerations.
+Evaluation of gender bias risks in educational AI systems, including governance recommendations and oversight mechanisms.
+
+➡️ [View Project](./Projects/Gender-Bias-Assessment)
+
+---
 
 ### Trust and Verification in Estate Administration
 
-Assessment of AI reliability, source verification, human oversight, and accountability in estate administration and probate workflows.
+Analysis of AI reliability, source verification, human oversight, and accountability in estate administration.
+
+➡️ [View Project](./Projects/Trust-and-Verification-in-Estate-Administration)
+
+---
 
 ### AI Governance in Corporate Physical Security
 
-Analysis of AI adoption in corporate security environments, including privacy, operational risk, governance controls, and workforce implications.
+Analysis of privacy, governance, operational risk, and workforce implications associated with enterprise AI deployment.
+
+➡️ [View Project](./Projects/Corporate-Physical-Security-AI-Report)
+
+---
 
 ### AI-Supported Postsecondary Advising Program Evaluation
 
-Evaluation of an AI-enabled advising program with emphasis on governance, privacy protections, implementation oversight, and program effectiveness.
+Evaluation of an AI-enabled advising program with emphasis on governance, privacy, oversight, and implementation considerations.
+
+➡️ [View Project](./Projects/AI-Supported-Postsecondary-Advising-Program-Evaluation)
 
 ## Areas of Interest
 
