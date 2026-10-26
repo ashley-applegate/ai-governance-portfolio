@@ -113,4 +113,6 @@ Documentation and analysis
 
 ## Portfolio Relevance
 
-This project demonstrates the design and application of a structured AI vendor evaluation framework that can be adapted to support governance, procurement, compliance, and deployment decisions across multiple industries.
+This project demonstrates my ability to develop evaluation criteria, compare technologies, identify potential risks, and document findings to support decision-making.
+
+Although the evaluation focused on an educational setting, the approach reflects considerations that are relevant to AI adoption in other industries, including privacy, accessibility, cost, and organizational readiness.
