@@ -26,5 +26,5 @@ The analysis examines opportunities for automation, operational transformation, 
   
 ## Deliverables
 
-- Sector Analysis Report
 [View Sector Analysis Report](./Physical-Security-AI-Report.pdf)
+``
