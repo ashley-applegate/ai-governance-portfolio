@@ -15,11 +15,17 @@ Organizations adopting generative AI need repeatable methods for evaluating vend
 Key considerations include:
 
 - Privacy and data security
+  
 - Bias and fairness
+  
 - Transparency and explainability
+  
 - Accessibility
+  
 - Integration and scalability
+  
 - Cost and return on investment
+  
 - Vendor support and governance maturity
   
 For this project, I developed and applied a structured scoring rubric to compare three generative AI platforms for a hypothetical educational use case. The evaluation considers factors that organizations would need to assess before adopting AI tools.
