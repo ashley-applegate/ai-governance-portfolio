@@ -1,7 +1,7 @@
 # ai-governance-portfolio
 Practical AI governance work samples including bias assessments, risk analyses, governance frameworks, and responsible AI policy development.
 
-###Projects
+### Projects
 
 1. Gender Bias Risk Assessment for AI in Early Education
 4
